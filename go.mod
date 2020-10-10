@@ -1,4 +1,4 @@
-module github.com/acatton/goreadline-ng
+module github.com/jle64/goreadline-ng
 
 go 1.14
 
